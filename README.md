@@ -1,4 +1,4 @@
-![Profile views](https://komarev.com/ghpvc/?username=john123&color=blue)
+![Profile views](https://komarev.com/ghpvc/?username=sjafarik&color=blue)
 <!--
 **sjafarik/sjafarik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
